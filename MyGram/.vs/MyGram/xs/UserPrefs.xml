@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1630C40B-73A6-4D40-8445-D95212AF4548}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGram/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="MyGram/Startup.cs" Line="27" Column="1" />
+      <File FileName="MyGram/Views/Home/Index.cshtml" Line="6" Column="50" />
+      <File FileName="MyGram/Views/Shared/_Layout.cshtml" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGram" expanded="True">
+            <Node name="MyGram" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyGram PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
